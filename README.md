@@ -8,10 +8,12 @@ about-me/
 │   ├── age: 15
 │   └── residence: Kostroma
 ├── programming-languages/
-│   ├── python:
+│   ├── python: tkinter, aiogram
 │   ├── csharp: UnityEngine
-│   ├── golang: gin, GORM
-│   ├── javascript&typescript: react, next
+│   ├── golang: gin, GORM, viper
+│   ├── javascript&typescript: react js, next js
 └── links/
     └── telegram: https://t.me/gayDevLord
+    └── UnityCloud:
+
 ```
