@@ -42,23 +42,5 @@ type Links struct {
 
 //That's all
 ```
-<<<<<<< HEAD
-about-me/
-├── personal_data/
-│   ├── nickname: Vortikcallace
-│   ├── age: 15
-│   └── residence: Kostroma
-├── programming-languages/
-│   ├── python: tkinter, aiogram
-│   ├── csharp: UnityEngine
-│   ├── golang: gin, GORM, viper
-│   ├── javascript&typescript: react js, next js
-└── links/
-    └── telegram: https://t.me/gayDevLord
-    └── UnityCloud:
 
-```
-=======
-
-I work alone, smd lol!
->>>>>>> 638e7bb (goyda braya)
+I work alone, smd lol!(goyda bratya)
